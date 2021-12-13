@@ -1,0 +1,16 @@
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.exe
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.deps.json
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.runtimeconfig.json
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.runtimeconfig.dev.json
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.dll
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\ref\IndexNoodleing.dll
+C:\repos\IndexNoodleing\IndexNoodleing\bin\Debug\net5.0\IndexNoodleing.pdb
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.csproj.AssemblyReference.cache
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.AssemblyInfoInputs.cache
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.AssemblyInfo.cs
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.csproj.CoreCompileInputs.cache
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.dll
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\ref\IndexNoodleing.dll
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.pdb
+C:\repos\IndexNoodleing\IndexNoodleing\obj\Debug\net5.0\IndexNoodleing.genruntimeconfig.cache
